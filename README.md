@@ -1,6 +1,3 @@
-# timothynguyen
-Hello world, this is my profile
-
 <h1 align="center">Hi 👋, I'm Timothy (Duc Thanh) Nguyen</h1>
 <h3 align="center">I am a junior at Boston University majoring in Economics and Mathematics. I am pursuing a career in data analytics because I enjoy using quantitative tools to uncover trends, solve problems, and support strategic decisions. I am looking for opportunities in data-driven roles across finance, consulting, or tech, where I can apply my analytical mindset and interdisciplinary background to drive impact. Let's connect and collaborate on ideas that can drive positive change. </h3>
 
