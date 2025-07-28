@@ -65,7 +65,7 @@
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
   </a>
-  <a href="https://www.stata.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/stata.svg" alt="stata" width="40" height="40"/>
+  <a href="https://www.stata.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/assets/main/Stata_Logo.svg](https://raw.githubusercontent.com/TimothyNguyen-vnm/TimothyNguyen-vnm/refs/heads/main/Stata_Logo.svg" alt="stata" width="80" height="40"/>
   </a>
 </p>
