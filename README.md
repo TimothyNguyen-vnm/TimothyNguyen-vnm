@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timothy (Duc Thanh) Nguyen</h1>
-<h3 align="center">I am a junior at Boston University majoring in Economics and Mathematics. I am pursuing a career in data analytics because I enjoy using quantitative tools to uncover trends, solve problems, and support strategic decisions. I am looking for opportunities in data-driven roles across finance, consulting, or tech, where I can apply my analytical mindset and interdisciplinary background to drive impact. Let's connect and collaborate on ideas that can drive positive change. Feel free to reach out a •dthanhng@bu.edu</h3>
+<h3 align="center">I am a junior at Boston University majoring in Economics and Mathematics. I am pursuing a career in data analytics because I enjoy using quantitative tools to uncover trends, solve problems, and support strategic decisions. I am looking for opportunities in data-driven roles across finance, consulting, or tech, where I can apply my analytical mindset and interdisciplinary background to drive impact. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timothynguyen-vnm&label=Profile%20views&color=0e75b6&style=flat" alt="timothynguyen-vnm" /> </p>
 
