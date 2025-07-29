@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://timothyducthanhnguyen.weebly.com/](https://timothyducthanhnguyen.weebly.com/)
 
-- 📝 I regularly write articles on [Quantitative Economics Analysis](Quantitative Economics Analysis)
+- 📝 I regularly write articles on Quantitative Economics Analysis
 
 - 📫 How to reach me **dthanhng@bu.edu**
 
