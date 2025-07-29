@@ -55,24 +55,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timothynguyen-vnm&" alt="timothynguyen-vnm" /></p>
 
 
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=timothynguyen-vnm&layout=compact&count_private=true&show_icons=true&v=1"
-       alt="timothynguyen-vnm" />
-</p>
-
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=timothynguyen-vnm&count_private=true&show_icons=true&v=1"
-       alt="timothynguyen-vnm" />
-</p>
-
-<p>
-  <img align="center"
-       src="https://streak-stats.demolab.com?user=timothynguyen-vnm&v=1"
-       alt="timothynguyen-vnm" />
-</p>
-
 
 
 
