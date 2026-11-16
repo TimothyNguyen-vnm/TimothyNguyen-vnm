@@ -104,13 +104,23 @@ My research interests lie in **household finance and asset pricing**, with a met
 
 At the frontier of **household finance and asset pricing**, incomplete-market heterogeneous-agent models couple **optimal household consumption–portfolio control** (HJB), the **endogenous cross-sectional wealth density** (Kolmogorov Forward Equation), and **cross-sectional Euler pricing moments**:
 
-$$
-\begin{aligned}
-\rho V_t(w, y) &= \max_{c \ge 0,\; \alpha \in \mathcal{A}} \left\{ u(c) + \partial_w V_t(w, y)\big[(r_t^f + \alpha(\mu_t - r_t^f))w + y - c\big] + \frac{1}{2}(\alpha \sigma_t w)^2 \partial_{ww} V_t(w, y) + \mathcal{L}_y V_t(w, y) + \partial_t V_t(w, y) \right\} \\[10pt]
-\partial_t g_t(w, y) &= -\partial_w \big[\mu_t^w(w, y)\, g_t(w, y)\big] + \frac{1}{2}\partial_{ww}\big[(\alpha_t^* \sigma_t w)^2 g_t(w, y)\big] + \mathcal{L}_y^* g_t(w, y) \\[10pt]
-\mathbb{E}_t\big[ M_{t+1}(\theta)\, R_{i, t+1}^e \big] &= 0, \qquad \hat{\theta}_{\text{GMM}} = \arg\min_{\theta \in \Theta} \; \bar{g}_T(\theta)^{\top} W_T \, \bar{g}_T(\theta)
-\end{aligned}
-$$
+**1. Household Consumption–Portfolio HJB**
+
+```math
+\rho V_t(w, y) = \max_{c \ge 0, \quad \alpha \in \mathcal{A}} \left\lbrace u(c) + \partial_w V_t(w, y)\left[(r_t^f + \alpha(\mu_t - r_t^f))w + y - c\right] + \frac{1}{2}(\alpha \sigma_t w)^2 \partial_{ww} V_t(w, y) + \mathcal{L}_y V_t(w, y) + \partial_t V_t(w, y) \right\rbrace
+```
+
+**2. Endogenous Wealth–Income Distribution (Kolmogorov Forward PDE)**
+
+```math
+\partial_t g_t(w, y) = -\partial_w \left[\mu_t^w(w, y) g_t(w, y)\right] + \frac{1}{2}\partial_{ww}\left[(\alpha_t^{\ast} \sigma_t w)^2 g_t(w, y)\right] + \mathcal{L}_y^{\ast} g_t(w, y)
+```
+
+**3. Cross-Sectional SDF & Optimal Structural GMM Estimator**
+
+```math
+\mathbb{E}_t\left[ M_{t+1}(\theta) R_{i, t+1}^e \right] = 0, \qquad \hat{\theta}_{\mathrm{GMM}} = \arg\min_{\theta \in \Theta} \quad \bar{g}_T(\theta)^{\top} W_T \bar{g}_T(\theta)
+```
 
 | Equation | Structural & Econometric Role |
 |:---|:---|
@@ -245,9 +255,9 @@ Quantitative modeling of fixed-income portfolios examining yield-curve positioni
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=timothynguyen-vnm&bg_color=00000000&color=94A3B8&line=2DD4BF&point=FB923C&area=true&area_color=14B8A6&hide_border=true&custom_title=Contribution%20Time%20Series" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=timothynguyen-vnm&bg_color=00000000&color=475569&line=0F766E&point=EA580C&area=true&area_color=0F766E&hide_border=true&custom_title=Contribution%20Time%20Series" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=timothynguyen-vnm&bg_color=00000000&color=475569&line=0F766E&point=EA580C&area=true&area_color=0F766E&hide_border=true&custom_title=Contribution%20Time%20Series" width="94%" alt="GitHub contribution activity time series" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/all-time-contributions-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/all-time-contributions-light.svg" />
+  <img src="./assets/all-time-contributions-light.svg" width="94%" alt="All-time GitHub contribution time series" />
 </picture>
 
 </div>
@@ -313,4 +323,3 @@ Strong empirical work is more than fitting a specification—it is asking a shar
 />
 
 </div>
-
