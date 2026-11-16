@@ -4,22 +4,22 @@
   GitHub: https://github.com/timothynguyen-vnm
   Website: https://timothyducthanhnguyen.com/
 
-  Aesthetic: Editorial Quantitative / Frontier Macroeconomics & Finance
-  Palette: Slate #0F172A | Wharton Navy #1E3A5F | Teal #0F766E | Burnt Orange #EA580C
+  Aesthetic: Editorial Quantitative / Household Finance & Asset Pricing
+  Palette: Deep Teal #0B3B3C | Teal #0F766E | Wharton Navy #1E3A5F | Burnt Orange #EA580C
 -->
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,38:1E3A5F,72:0F766E,100:EA580C&height=240&section=header&text=Duc%20Thanh%20(Timothy)%20Nguyen&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Predoctoral%20Research%20Associate%20%C2%B7%20The%20Wharton%20School&descAlignY=56&descSize=17&descColor=E2E8F0"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3B3C,45:0F766E,100:EA580C&height=230&section=header&text=Duc%20Thanh%20(Timothy)%20Nguyen&fontSize=34&fontColor=FFFFFF&fontAlignY=35&desc=Predoctoral%20Research%20Associate%20%C2%B7%20The%20Wharton%20School&descAlignY=56&descSize=17&descColor=F8FAFC"
   width="100%"
   alt="Duc Thanh (Timothy) Nguyen — Predoctoral Research Associate at The Wharton School"
 />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=2DD4BF&center=true&vCenter=true&width=780&lines=Empirical+Macroeconomics+%26+Finance+%40+The+Wharton+School%2C+UPenn;Heterogeneous-Agent+Macro+%C2%B7+Structural+Econometrics+%C2%B7+Fixed+Income;B.A.+Economics+%26+Mathematics+%40+Boston+University;Stata+%C2%B7+Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+MATLAB+%C2%B7+LaTeX" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=0F766E&center=true&vCenter=true&width=780&lines=Empirical+Macroeconomics+%26+Finance+%40+The+Wharton+School%2C+UPenn;Heterogeneous-Agent+Macro+%C2%B7+Structural+Econometrics+%C2%B7+Fixed+Income;B.A.+Economics+%26+Mathematics+%40+Boston+University;Stata+%C2%B7+Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+MATLAB+%C2%B7+LaTeX" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=0F766E&center=true&vCenter=true&width=780&lines=Empirical+Macroeconomics+%26+Finance+%40+The+Wharton+School%2C+UPenn;Heterogeneous-Agent+Macro+%C2%B7+Structural+Econometrics+%C2%B7+Fixed+Income;B.A.+Economics+%26+Mathematics+%40+Boston+University;Stata+%C2%B7+Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+MATLAB+%C2%B7+LaTeX" alt="Research focus and quantitative computing stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=2DD4BF&center=true&vCenter=true&width=780&lines=Household+Finance+%26+Asset+Pricing+%40+The+Wharton+School%2C+UPenn;Heterogeneous-Agent+Macro+%C2%B7+Structural+Econometrics+%C2%B7+Fixed+Income;B.A.+Economics+%26+Mathematics+%40+Boston+University;Stata+%C2%B7+Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+MATLAB+%C2%B7+LaTeX" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=0F766E&center=true&vCenter=true&width=780&lines=Household+Finance+%26+Asset+Pricing+%40+The+Wharton+School%2C+UPenn;Heterogeneous-Agent+Macro+%C2%B7+Structural+Econometrics+%C2%B7+Fixed+Income;B.A.+Economics+%26+Mathematics+%40+Boston+University;Stata+%C2%B7+Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+MATLAB+%C2%B7+LaTeX" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=0F766E&center=true&vCenter=true&width=780&lines=Household+Finance+%26+Asset+Pricing+%40+The+Wharton+School%2C+UPenn;Heterogeneous-Agent+Macro+%C2%B7+Structural+Econometrics+%C2%B7+Fixed+Income;B.A.+Economics+%26+Mathematics+%40+Boston+University;Stata+%C2%B7+Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+MATLAB+%C2%B7+LaTeX" alt="Research focus and quantitative computing stack" />
 </picture>
 
 <br/><br/>
@@ -50,7 +50,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/UPenn-The_Wharton_School-1E3A5F?style=flat-square" alt="The Wharton School"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Empirical_Macro_%26_Finance-0F766E?style=flat-square" alt="Empirical Macroeconomics and Finance"/>
+<img src="https://img.shields.io/badge/Focus-Household_Finance_%26_Asset_Pricing-0F766E?style=flat-square" alt="Household Finance and Asset Pricing"/>
 
 </div>
 
@@ -61,7 +61,7 @@
 name: "Duc Thanh (Timothy) Nguyen"
 affiliation: "Finance Department · The Wharton School, University of Pennsylvania"
 location: "Philadelphia, PA"
-interests: ["Empirical Macroeconomics", "Macro-Finance", "Structural Econometrics", "Fixed Income"]
+interests: ["Household Finance", "Asset Pricing", "Empirical Macroeconomics", "Structural Econometrics"]
 stack: ["Stata", "Python", "R", "SQL", "MATLAB", "LaTeX", "Git"]
 ```
 
@@ -69,9 +69,9 @@ stack: ["Stata", "Python", "R", "SQL", "MATLAB", "LaTeX", "Git"]
 
 ## 01 / Focus & Affiliation
 
-I am **Duc Thanh (Timothy) Nguyen**, a **Predoctoral Research Associate** in the Finance Department at **The Wharton School, University of Pennsylvania**, working with [Parinitha Sastry](https://fnce.wharton.upenn.edu/profile/psastry), [Victor Orestes](https://fnce.wharton.upenn.edu/profile/orestes/), and [Courtney Wiegand](https://fnce.wharton.upenn.edu/profile/cwiegand/). I earned my B.A. in Economics and Mathematics (*magna cum laude*, Minor in Business Administration) from **Boston University** in August 2026.
+I am **Duc Thanh (Timothy) Nguyen**, a **Predoctoral Research Associate** in the Finance Department at **The Wharton School, University of Pennsylvania**. I earned my B.A. in Economics and Mathematics (*magna cum laude*, Minor in Business Administration) from **Boston University** in August 2026.
 
-This GitHub hosts quantitative research utilities, fixed-income modeling, and reproducible econometric workflows. For my full academic background and research appointments, see my [website](https://timothyducthanhnguyen.com/) and [CV](https://timothyducthanhnguyen.com/assets/Nguyen_CV.pdf).
+My research interests lie in **household finance and asset pricing**, with a methodological focus on structural econometrics, heterogeneous-agent macro-finance, and reproducible quantitative workflows. For my full academic background, see my [website](https://timothyducthanhnguyen.com/) and [CV](https://timothyducthanhnguyen.com/assets/Nguyen_CV.pdf).
 
 <table>
 <tr>
@@ -79,17 +79,17 @@ This GitHub hosts quantitative research utilities, fixed-income modeling, and re
 
 ### Research Agenda
 
-- **Empirical Macroeconomics** — aggregate transmission, international shocks, and dynamic impulse responses
-- **Macro-Finance & Asset Pricing** — incomplete-market equilibrium, credit frictions, and risk premia
-- **Fixed-Income Analytics** — term-structure modeling, yield-curve dynamics, and duration/convexity exposure
+- **Household Finance** — portfolio choice under uninsurable income risk, borrowing constraints, and wealth heterogeneity
+- **Asset Pricing** — stochastic discount factors, risk premia, cross-sectional return predictability, and fixed income
+- **Macro-Finance** — linking micro-level household balance sheets to aggregate equilibrium prices and dynamics
 
 </td>
 <td width="50%" valign="top">
 
 ### Methodological Pillars
 
-- **Structural & Reduced-Form Synthesis** — bridging heterogeneous-agent theory with local-projection evidence
-- **Numerical & Econometric Rigor** — finite-difference PDE solvers, GMM/SMD estimation, and HAC/clustered inference
+- **Structural & Reduced-Form Synthesis** — bridging continuous-time portfolio theory with panel and Euler-equation evidence
+- **Numerical & Econometric Rigor** — PDE/finite-difference solvers, GMM/SMM estimation, and HAC/clustered inference
 - **Reproducible Pipelines** — deterministic `Stata` / `Python` / `MATLAB` / `SQL` workflows with clean audit trails
 
 </td>
@@ -98,37 +98,37 @@ This GitHub hosts quantitative research utilities, fixed-income modeling, and re
 
 ---
 
-## 02 / Frontier Macro Structural Framework
+## 02 / Frontier Macro-Finance Structural Framework
 
-### Continuous-Time Heterogeneous-Agent Macro-Finance (HJB–KFE) & IRF Matching
+### Heterogeneous-Agent Portfolio Choice (HJB–KFE) & Asset Pricing GMM
 
-Modern macro-finance pairs **incomplete-market heterogeneous-agent dynamics** (coupled Hamilton–Jacobi–Bellman and Kolmogorov Forward PDEs over an endogenous wealth distribution $g_t(a,z)$) with **impulse-response structural estimation** against empirical local projections:
+At the frontier of **household finance and asset pricing**, incomplete-market heterogeneous-agent models couple **optimal household consumption–portfolio control** (HJB), the **endogenous cross-sectional wealth density** (Kolmogorov Forward Equation), and **cross-sectional Euler pricing moments**:
 
 $$
 \begin{aligned}
-\rho V_t(a, z) &= \max_{c \ge 0} \Big\{ u(c) + \partial_a V_t(a, z)\big(r_t a + w_t z - c\big) + \mathcal{A}_z V_t(a, z) + \partial_t V_t(a, z) \Big\} \\[8pt]
-\partial_t g_t(a, z) &= -\partial_a \Big[ \big(r_t a + w_t z - c_t^*(a, z)\big)\, g_t(a, z) \Big] + \mathcal{A}_z^* g_t(a, z), \qquad \int_{\underline{a}}^{\infty}\!\int a\, g_t(a, z)\, dz\, da = K_t + B_t \\[8pt]
-\hat{\theta} &= \arg\min_{\theta \in \Theta} \; \big(\widehat{\Psi} - \Psi(\theta)\big)^{\!\top} W_T \big(\widehat{\Psi} - \Psi(\theta)\big)
+\rho V_t(w, y) &= \max_{c \ge 0,\; \alpha \in \mathcal{A}} \left\{ u(c) + \partial_w V_t(w, y)\big[(r_t^f + \alpha(\mu_t - r_t^f))w + y - c\big] + \frac{1}{2}(\alpha \sigma_t w)^2 \partial_{ww} V_t(w, y) + \mathcal{L}_y V_t(w, y) + \partial_t V_t(w, y) \right\} \\[10pt]
+\partial_t g_t(w, y) &= -\partial_w \big[\mu_t^w(w, y)\, g_t(w, y)\big] + \frac{1}{2}\partial_{ww}\big[(\alpha_t^* \sigma_t w)^2 g_t(w, y)\big] + \mathcal{L}_y^* g_t(w, y) \\[10pt]
+\mathbb{E}_t\big[ M_{t+1}(\theta)\, R_{i, t+1}^e \big] &= 0, \qquad \hat{\theta}_{\text{GMM}} = \arg\min_{\theta \in \Theta} \; \bar{g}_T(\theta)^{\top} W_T \, \bar{g}_T(\theta)
 \end{aligned}
 $$
 
-| Equation / Object | Structural & Econometric Role |
+| Equation | Structural & Econometric Role |
 |:---|:---|
-| **HJB** $\; V_t(a, z)$ | Backward-looking household optimization under idiosyncratic income/productivity risk ($\mathcal{A}_z$) and borrowing limit $a \ge \underline{a}$ |
-| **KFE** $\; g_t(a, z)$ | Forward evolution of the endogenous cross-sectional wealth density driven by optimal policy $c_t^*(a,z)$ and adjoint operator $\mathcal{A}_z^*$ |
-| **IRF Matching** $\; \hat{\theta}$ | Minimum-distance estimator aligning transition/sequence-space model IRFs $\Psi(\theta)$ to empirical Jordà local-projection IRFs $\widehat{\Psi}$ |
+| **Portfolio-Choice HJB** (`V(w, y)`) | Backward-looking household consumption `c*` and risky portfolio share `alpha*` under uninsurable income risk and portfolio constraints |
+| **Kolmogorov Forward PDE** (`g(w, y)`) | Forward evolution of the endogenous household wealth–income distribution aggregating micro balance sheets into market clearing |
+| **Euler Moment & GMM** (`M(theta)`) | Stochastic discount factor pricing excess returns `R^e`, estimated via optimal two-step GMM weighting |
 
 ```mermaid
 flowchart LR
-    A["Aggregate Shocks & Prices<br/>(r_t, w_t)"] --> B["Backward Solve: HJB PDE<br/>V_t(a,z) & Policy c*_t(a,z)"]
-    B --> C["Forward Density: KFE PDE<br/>Endogenous Wealth g_t(a,z)"]
-    C --> D["Market Clearing & Jacobians<br/>Model IRFs Ψ(θ)"]
-    D --> E["Minimum-Distance Estimator<br/>min || Ψ̂_LP − Ψ(θ) ||_W"]
-    E -.->|"Update θ ∈ Θ"| A
+    A["Asset Returns & Income Risk<br/>(rf, mu, sigma, y)"] --> B["Backward Solve: HJB PDE<br/>Consumption c* & Share alpha*"]
+    B --> C["Forward Density: KFE PDE<br/>Wealth Distribution g(w,y)"]
+    C --> D["Market Clearing & SDF<br/>Equilibrium Prices & Moments"]
+    D --> E["Structural GMM Estimator<br/>min g(theta)' W g(theta)"]
+    E -.->|"Update theta"| A
 
-    style A fill:#0F172A,stroke:#1E3A5F,color:#F8FAFC
+    style A fill:#0B3B3C,stroke:#0F766E,color:#F8FAFC
     style B fill:#1E3A5F,stroke:#0F766E,color:#F8FAFC
-    style C fill:#115E59,stroke:#0F766E,color:#F8FAFC
+    style C fill:#115E59,stroke:#2DD4BF,color:#F8FAFC
     style D fill:#0F766E,stroke:#2DD4BF,color:#F8FAFC
     style E fill:#EA580C,stroke:#FB923C,color:#FFFFFF
 ```
@@ -185,9 +185,9 @@ flowchart LR
 | Layer | Methods, Systems & Tools |
 |:---|:---|
 | **Statistical & Numerical Computing** | Stata, Python, R, SQL, MATLAB |
-| **Econometric Methodology** | Local projections, structural estimation (GMM / SMD), panel fixed effects, IV/DiD, time series |
-| **Fixed Income & Quantitative Finance** | Bond valuation, duration & convexity, yield-curve modeling, portfolio risk attribution |
-| **Data Engineering & Visualization** | Relational query optimization, spatial & panel linkage, Matplotlib, Power BI, Tableau |
+| **Econometric Methodology** | GMM / SMM, panel fixed effects, IV/DiD, local projections, cross-sectional asset pricing |
+| **Household Finance & Fixed Income** | Portfolio choice, yield-curve modeling, duration & convexity, risk attribution |
+| **Data Engineering & Visualization** | Relational query optimization, panel/spatial linkage, Matplotlib, Power BI, Tableau |
 | **Workflow & Spoken Languages** | Git, LaTeX, Jupyter, VS Code, Excel, Azure · **Languages:** English, Vietnamese, Spanish |
 
 ---
@@ -201,9 +201,9 @@ Quantitative modeling of fixed-income portfolios examining yield-curve positioni
 
 | Repository Focus | Core Quantitative Applications |
 |:---|:---|
-| **Macro & Financial Econometrics** | Panel data pipelines, dynamic local projections, structural moment estimation |
+| **Household Finance & Asset Pricing** | Portfolio allocation models, SDF/Euler estimation, empirical risk-return tests |
 | **Fixed-Income & Portfolio Analytics** | Yield-curve construction, duration/convexity hedging, scenario stress testing |
-| **Data Engineering & Automation** | High-throughput SQL tuning, cross-dataset harmonization, reproducible reporting |
+| **Data Engineering & Econometrics** | High-throughput SQL tuning, panel harmonization, reproducible workflows |
 
 <div align="center">
 
@@ -221,16 +221,16 @@ Quantitative modeling of fixed-income portfolios examining yield-curve positioni
 
 <a href="https://github.com/timothynguyen-vnm">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=timothynguyen-vnm&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=2DD4BF&icon_color=FB923C&text_color=CBD5E1&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=timothynguyen-vnm&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=0F766E&icon_color=EA580C&text_color=334155&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api?username=timothynguyen-vnm&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=0F766E&icon_color=EA580C&text_color=334155&bg_color=00000000" height="170" alt="Timothy Nguyen GitHub statistics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=timothynguyen-vnm&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=timothynguyen-vnm&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=timothynguyen-vnm&theme=default" height="190" alt="Timothy Nguyen GitHub statistics" />
   </picture>
 </a>
 <a href="https://github.com/timothynguyen-vnm?tab=repositories">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynguyen-vnm&layout=compact&hide_border=true&langs_count=6&title_color=2DD4BF&text_color=CBD5E1&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynguyen-vnm&layout=compact&hide_border=true&langs_count=6&title_color=0F766E&text_color=334155&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynguyen-vnm&layout=compact&hide_border=true&langs_count=6&title_color=0F766E&text_color=334155&bg_color=00000000" height="170" alt="Most frequently used programming languages in public repositories" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timothynguyen-vnm&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timothynguyen-vnm&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timothynguyen-vnm&theme=default" height="190" alt="Most frequently used programming languages in public repositories" />
   </picture>
 </a>
 
@@ -252,7 +252,7 @@ Quantitative modeling of fixed-income portfolios examining yield-curve positioni
 
 </div>
 
-<sub>Public repository language metrics reflect code hosted on public GitHub rather than empirical research executed in Stata or restricted institutional environments. Telemetry cards rely on third-party SVG renderers and may occasionally experience rate limits.</sub>
+<sub>Public repository language metrics reflect code hosted on public GitHub rather than empirical research executed in Stata or restricted institutional environments.</sub>
 
 ---
 
@@ -302,12 +302,12 @@ Strong empirical work is more than fitting a specification—it is asking a shar
 
 <br/><br/>
 
-**Economics × Mathematics × Empirical Finance**
+**Household Finance × Asset Pricing × Econometrics**
 
 *Curiosity drives the questions. Identification shapes the answers.*
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:EA580C,28:0F766E,62:1E3A5F,100:0F172A&height=115&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:EA580C,55:0F766E,100:0B3B3C&height=115&section=footer"
   width="100%"
   alt="Decorative editorial gradient footer"
 />
